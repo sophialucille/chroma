@@ -8,7 +8,7 @@ The idea of the project was to use an LED Strip to visually represent a piano. E
 ![LEDs Circuits-2](https://user-images.githubusercontent.com/60353864/150695942-cff914ac-bb53-4e5b-b449-6ad2670cada9.jpg)
 
 Parts Used:
-- WS2812b LED Strips
+- WS2812b LED Strips (one of the strips pictured is a WS2811 which is why its power bank is larger)
 - Arduino Unos
 - 470 Ohm Resistor
 - 1000 microFarad Capacitor
