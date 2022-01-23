@@ -8,11 +8,11 @@ The idea of the project was to use an LED Strip to visually represent a piano. E
 ![LEDs Circuits-2](https://user-images.githubusercontent.com/60353864/150695942-cff914ac-bb53-4e5b-b449-6ad2670cada9.jpg)
 
 Parts Used:
-WS2812b LED Strips
-Arduino Unos
-470 Ohm Resistor
-1000 microFarad Capacitor
-5V Power Supply (In this project, AA Battery Packs were used providing 4.5V)
+- WS2812b LED Strips
+- Arduino Unos
+- 470 Ohm Resistor
+- 1000 microFarad Capacitor
+- 5V Power Supply (In this project, AA Battery Packs were used providing 4.5V)
 
 Several Notes:
 1. when inputting your MIDI data and audio files, they must come from the same source (example, if you are using Finale the write the score but finalize the audio in Logic, then it is recommend that the MIDI data is taken from Logic as well) Using data from different sources will result in latency issues.
